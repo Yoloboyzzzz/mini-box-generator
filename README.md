@@ -3,6 +3,8 @@
 Turn the STL files of your tabletop miniatures into 3D-printable storage boxes with friction-fit lids.
 Everything runs in your browser. Your files never leave your device.
 
+**Live version: https://yoloboyzzzz.github.io/mini-box-generator/**
+
 ## How it works
 
 1. **Add your minis.** Drop STL files in (units are taken as millimetres). Set how each one stands and how many copies you want.

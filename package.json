@@ -1,0 +1,24 @@
+{
+  "name": "mini-box",
+  "version": "1.0.0",
+  "description": "Generate nested storage boxes and friction-fit lids for 3D-printed miniatures, entirely in the browser.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "type": "module",
+  "dependencies": {
+    "jszip": "^3.10.2",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "fake-indexeddb": "^6.2.6",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  },
+  "private": true
+}
